@@ -16,7 +16,7 @@ importers:
         version: 13.9.0(vue@3.5.22(typescript@7.0.2))
       tailwindcss:
         specifier: ^4.1.13
-        version: 4.1.13
+        version: 4.3.5
       vue:
         specifier: ^3.5.21
         version: 3.5.22(typescript@7.0.2)
@@ -694,6 +694,9 @@ packages:
   tailwindcss@4.1.13:
     resolution: {integrity: sha512-i+zidfmTqtwquj4hMEwdjshYYgMbOrPzb9a0M3ZgNa0JMoZeFC6bxZvO8yr8ozS6ix2SDz0+mvryPeBs2TFE+w==}
 
+  tailwindcss@4.3.5:
+    resolution: {integrity: sha512-FcQk9BuffmEHJP2G0XmB2SplU1aLTI7j07Kunk+U74Ny+XiWOtzXz9aujFZ/avntw1e2cOv/3PkgzflQ7gX2vQ==}
+
   tapable@2.2.3:
     resolution: {integrity: sha512-ZL6DDuAlRlLGghwcfmSn9sK3Hr6ArtyudlSAiCqQ6IfE+b+HHbydbYDIG15IfS5do+7XQQBdBiubF/cV2dnDzg==}
     engines: {node: '>=6'}
@@ -1229,6 +1232,8 @@ snapshots:
   source-map-js@1.2.1: {}
 
   tailwindcss@4.1.13: {}
+
+  tailwindcss@4.3.5: {}
 
   tapable@2.2.3: {}
 
